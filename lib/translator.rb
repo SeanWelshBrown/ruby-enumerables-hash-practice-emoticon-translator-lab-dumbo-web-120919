@@ -7,6 +7,7 @@ def load_library(file_path)
     get_meaning = {},
     get_emoticon = {}
   }
+  
   emoticons.each do |key, value|
     
 end
