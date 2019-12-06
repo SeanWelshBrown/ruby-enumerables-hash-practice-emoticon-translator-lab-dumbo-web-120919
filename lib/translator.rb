@@ -9,7 +9,7 @@ def load_library(file_path)
   }
   
   emoticons.each do |key, value|
-    emoticon_hash['get_meaning']
+    emoticon_hash['get_meaning'][key[0]] = 
 end
 
 def get_japanese_emoticon
